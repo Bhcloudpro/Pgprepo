@@ -63,4 +63,4 @@ jobs:
           app-name: 'Phpapp001'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7091959B41BA4C569A25CD97A6DB14E8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_667CD249593C4F07A6BEA52579DA1111 }}
